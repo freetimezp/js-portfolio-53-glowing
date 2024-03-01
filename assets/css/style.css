@@ -706,12 +706,47 @@ body {
     margin-block: 10px 25px;
 }
 
+/** banner end **/
 
 
 
 
+/** feature start **/
+.feature {
+    text-align: center;
+}
+
+.feature .section-title {
+   margin-block-end: 40px;
+}
+
+.feature-card .card-icon {
+    width: 100px;
+    margin-inline: auto;
+}
+
+.feature-card .card-title {
+    margin-block: 35px 15px;
+}
+
+.feature-card .card-text {
+    font-size: var(--fs-7);
+}
 
 /** banner end **/
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
